@@ -11,3 +11,5 @@ curl https://raw.githubusercontent.com/mvknowles/tidy_powerline_installer/master
 Please look at the script before running it!
 
 Works on M1 MacOS!
+
+![powerline](powerline.png "powerline")
