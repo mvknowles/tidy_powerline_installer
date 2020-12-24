@@ -2,7 +2,7 @@
 
 This is a super easy way to install Powerline fonts on MacOS.
 
-I highly recommend that you DON'T run this command. Piping scirpts in the prompt is insane (I'm saying this as a Cyber Security Expert). The practice needs to end.
+I highly recommend that you DON'T run this command. Piping scirpts to any shell command is insane (I'm saying this as a Cyber Security Expert). The practice needs to end.
 
 If you're so inclined:
 
