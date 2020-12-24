@@ -12,6 +12,10 @@ curl https://raw.githubusercontent.com/mvknowles/tidy_powerline_installer/master
 
 Please look at the script before running it!
 
+This script is an offshoot from another mini-project of mine called fontwrangler:
+
+https://github.com/mvknowles/fontwrangler
+
 Works on M1 MacOS!
 
 ![powerline](powerline.png "powerline")
