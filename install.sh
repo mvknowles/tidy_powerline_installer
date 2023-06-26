@@ -1,5 +1,5 @@
 #!/bin/zsh
-set -x
+#set -x
 #set -eu
 
 echo "Creating temporary working directory"
